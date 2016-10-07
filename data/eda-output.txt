@@ -1,0 +1,8 @@
+Summary Statistics
+
+Minimum TV: 0.7 
+Maximum TV: 296.4 
+Median TV: 149.75 
+Minimum Sales: 1.6 
+Maximum Sales: 27 
+Median Sales: 12.9 
